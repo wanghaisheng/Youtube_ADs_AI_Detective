@@ -4,7 +4,7 @@ import pandas as pd
 import openai
 from PyQt5.QtGui import QIcon
 
-openai.api_key = ""  # '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'
+openai.api_key = ""  # OPENAI KEY
 from PyQt5.QtWidgets import QDialog, QVBoxLayout, QLabel, QLineEdit, QPushButton
 
 video_id = ""
