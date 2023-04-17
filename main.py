@@ -147,7 +147,7 @@ class YoutubeTranscriptApp(QWidget):
         icon = QIcon('C:/Users/murat/OneDrive/Masaüstü/YOUTUBE_AI/images/icon.png')
         self.setWindowIcon(icon)
 
-        self.label = QLabel("<font color='blue'>Enter YouTube Video URL:")
+        self.label = QLabel("<font color='blue'>Results:")
         self.text_edit = QTextEdit()
         self.button = QPushButton("Start the ads detector")
         self.button.clicked.connect(self.get_transcript)
