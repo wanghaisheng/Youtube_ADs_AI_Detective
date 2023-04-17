@@ -1,4 +1,4 @@
-# YouTube AI Detector
+# YouTube AI Detective
 
 * This is a PyQt5-based application that detects ads in YouTube videos and provides a transcript of the video. It uses the YouTube Transcript API and the OpenAI GPT-3.5-turbo model for natural language processing tasks.
 
