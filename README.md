@@ -3,7 +3,7 @@
 * This is a PyQt5-based application that detects ads in YouTube videos and provides a transcript of the video. It uses the YouTube Transcript API and the OpenAI GPT-3.5-turbo model for natural language processing tasks.
 
 
-
+a
 https://user-images.githubusercontent.com/77502485/232549581-31e87823-976d-4511-8084-276b3abd63da.mp4
 
 
@@ -36,3 +36,59 @@ pandas for data processing tasks.
 OpenAI for the GPT-3.5-turbo model for natural language processing tasks.
 Contributions
 Contributions are welcome! If you find any issues or want to add new features, feel free to submit a pull request or open an issue.
+
+
+
+
+
+
+
+
+
+##   browser extension to attract traffic for pro edition
+
+how to detect user is a YouTube Premium plan 
+
+
+## check whether there is ad
+
+## check whether channel is monetized
+
+
+## check ads quantity
+
+##  check ads source 
+
+## scrape ads source for target keywords 
+
+chase more money from this niche
+
+## maintain a list of monetized channels and alert when monetized is gone, analyse which niche is profitable
+
+
+
+
+
+
+
+##  reference
+
+
+
+https://github.com/ewpratten/youtube_ad_blocklist
+
+https://github.com/GSRHackZ/No-ADS-YouTube/blob/main/NoAdsYt.js
+
+
+https://github.com/ogohogo/is-youtube-channel-monetized-extension
+
+https://github.com/nooralamf42/ytMonetizationChecker/blob/main/myApp.js
+
+https://github.com/addshore/youtube-monetization-detector/blob/master/server.js
+
+https://github.com/ujas-dev/yt-monetization-check/blob/master/ytmc.content.js
+
+
+https://github.com/Tominous/yt-monetization-extension/blob/master/content.js
+
+
